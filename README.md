@@ -4,13 +4,14 @@ This repo contains the code for the Pluralsight Project "Add Implicit and Explic
 This is a complete beginners project covering concepts like <br/>
     1. database <br/>
     2. Implicit and Explicit Intents <br/>
-    3. Implicit and Explicit Intents <br/>
+    3. Unit Testing
 
 # The UI
 <p align="center">
-  <img src="one.jpg" width="200">
-   <img src="five.jpg" width="200">
-  <img src="two.jpg" width="200">
-  <img src="three.jpg" width="200">
-  <img src="four.jpg" width="200">
+  <img src="one.jpg" width="400">
+   <img src="five.jpg" width="400">
+  <img src="two.jpg" width="400">
+  <img src="three.jpg" width="400">
+  <img src="four.jpg" width="400">
+  <img src="six.jpg" width="400">
 </p>
